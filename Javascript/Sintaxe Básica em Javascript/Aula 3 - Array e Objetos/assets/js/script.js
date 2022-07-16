@@ -54,4 +54,13 @@ console.log('------------------------');
 // MANIPULAÇÃO DE OBJETOS
 let object = { string: 'string', number: 1, boolean: true, array: ["array"], objectInterno: {objectInterno: 'object interno'}};
 
-console.log(object);
+console.log(object.objectInterno);
+
+var string = object.array;
+console.log(string);
+
+var arrayInterno = object.array;
+console.log(arrayInterno);
+
+var {string, boolean, objectInterno} = object;
+console.log(string, boolean, objectInterno);
