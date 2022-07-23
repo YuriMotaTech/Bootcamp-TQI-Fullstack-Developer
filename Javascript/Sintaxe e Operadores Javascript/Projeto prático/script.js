@@ -1,10 +1,3 @@
-/* Atividade
-- Crie uma função que recebe dois números como parâmetros.
-- Confira se os números são iguais.
-- Confira se a soma dos números é maior que 10 ou menor que 20.
-- Retorne uma string dizendo "Os números num1 e num2 não/são iguais. Sua soma é soma, que é maior/menor que 10 e maior/menor que 20". 
-*/
-
 // TENTATIVA ANTES DE ASSISTIR RESOLUÇÃO
 
 function compararVariaveis(num1, num2){
@@ -29,6 +22,7 @@ function compararVariaveis(num1, num2){
 }
 
 compararVariaveis(1, 2);
+
 
 // EXPLICAÇÃO DA TUTORA
 

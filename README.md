@@ -1,5 +1,5 @@
 # Bootcamp-TQI-Fullstack-Developer
-Anotações e Projetos desenvolvidos durante o Bootcamp de Fullstack Developer da TQI
+Este repositório contém Anotações, Atividades e Projetos desenvolvidos durante o Bootcamp de Fullstack Developer da TQI organizado pela [Digital Innovation One](https://digitalinnovation.one/).
 
 ### Conteúdos:
 - Git/GitHub
